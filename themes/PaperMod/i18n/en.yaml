@@ -1,0 +1,33 @@
+- id: prev_page
+  translation: "Önceki"
+
+- id: next_page
+  translation: "Sonraki"
+
+- id: read_time
+  translation:
+    one : "1 min"
+    other: "{{ .Count }} min"
+
+- id: words
+  translation:
+    one : "word"
+    other: "{{ .Count }} words"
+
+- id: toc
+  translation: "İçindekiler"
+
+- id: translations
+  translation: "Translations"
+
+- id: home
+  translation: "Ana Sayfa"
+
+- id: edit_post
+  translation: "Düzenle"
+
+- id: code_copy
+  translation: "kopyala"
+
+- id: code_copied
+  translation: "kopyalandı!"
